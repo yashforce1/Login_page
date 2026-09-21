@@ -1,5 +1,5 @@
 ````markdown
-# MongoDB Atlas and Compass
+# MongoDB Setup
 
 **Atlas = where your database actually lives.**
 
